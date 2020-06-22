@@ -26,6 +26,8 @@ In step 4.  w'il end up with this.
 
 ![alt text](https://github.com/abdoulsn/wolof/blob/master/image2.png)
 
-## TAsk 2: Process text (delete emoji,  delete unusful row containing un wanted data)
+--------------------------------------------------------------------------------------------------------------------------
+
+## Task 2: Process text (delete emoji,  delete unusful row containing un wanted data)
 
 
