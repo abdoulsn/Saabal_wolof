@@ -9,4 +9,4 @@ def readcsv(path, sep):
 def tocsv(df, path):
     df = pd.DataFrame(df)
     df.to_csv(path, sep=';', encoding='iso-8859-1', index=False)
-    return 'fichier bien enregistré dans {} '.format(path)
+    return 'csv file saved into {} '.format(path)
