@@ -1,5 +1,4 @@
 # For jupyter loader et warnings
-from utils import * 
 
 from tqdm import tqdm
 import warnings 

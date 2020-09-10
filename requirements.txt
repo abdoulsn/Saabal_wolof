@@ -1,0 +1,16 @@
+# For jupyter loader et warnings
+tqdm
+
+#Python numpy et pandas respctivement pout Lin Algebra et dataframe
+numpy
+pandas 
+
+# url spiders 
+urllib3
+lxml
+requests
+urllib3
+beautifulsoup4
+requests
+nltk
+pylint
