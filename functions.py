@@ -1,4 +1,4 @@
-# read csv raccourci
+# raccourci de  read csvi
 from utils import *
 def readcsv(path, sep):
     df = pd.read_csv(path, sep, encoding='iso-8859-1', index_col=0)
